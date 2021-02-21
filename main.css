@@ -6,11 +6,6 @@ body {
   font-family: "Roboto Mono", monospace;
 }
 
-.ostitle {
-  text-shadow: 2px 2px;
-  font-size: xx-large;
-}
-
 .terminal {
   text-align: center;
   background-color: #000000;
@@ -18,4 +13,3 @@ body {
   box-shadow: 1px 1px #888888;
   font-family: "Roboto Mono", monospace;
 }
-
