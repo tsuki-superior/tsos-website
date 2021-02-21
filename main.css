@@ -1,7 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-.title {
-    text-align: center;
-    background-color: #1e1e1e;
-    color: #209b6a;
-    font-family: 'Roboto Mono', monospace;
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+body {
+  text-align: center;
+  background-color: #1e1e1e;
+  color: #209b6a;
+  font-family: "Roboto Mono", monospace;
 }
+
+.ostitle {
+  text-shadow: 2px 2px;
+  font-size: xx-large;
+}
+
+.terminal {
+  text-align: center;
+  background-color: #000000;
+  color: #5abdeb;
+  box-shadow: 1px 1px #888888;
+  font-family: "Roboto Mono", monospace;
+}
+
